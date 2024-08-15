@@ -22,8 +22,14 @@ method__ submitted to CMAME.
 </div>
 
 ---
+#### 3. Collision of Two Rings
 
-#### 3. Ironing Test
+<div align="center">
+    <img src="images/animation_ring.gif" alt="Ring" style="max-width: 100%; height: auto;">
+    <h4>Mean stress during the collision.</h4>
+</div>
+
+#### 4. Ironing Test
 
 <div align="center">
     <img src="images/ironing.gif" alt="Ironing" style="max-width: 100%; height: auto;">
@@ -32,7 +38,7 @@ method__ submitted to CMAME.
 
 ---
 
-#### 4. Compression of Deformable Grain Packing
+#### 5. Compression of Deformable Grain Packing
 
 <div align="center">
     <img src="images/packing.gif" alt="Packing" style="max-width: 100%; height: auto;">
