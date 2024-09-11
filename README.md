@@ -1,7 +1,12 @@
 # MPM Mortar Contact
 
-This repository presents some animations in the manuscript __A mortar segment-to-segment frictional contact approach for material point
-method__ submitted to CMAME.
+This repository presents some animations for the below manuscript:
+
+***Liang, W., Fang, H., Yin, Z. Y., & Zhao, J. (2024). A mortar segment-to-segment frictional contact approach in material point method. Computer Methods in Applied Mechanics and Engineering, 431, 117294.***
+
+DOI: https://doi.org/10.1016/j.cma.2024.117294 
+
+
 
 #### 1. Elastic Cantilever Beam
 
@@ -46,3 +51,16 @@ method__ submitted to CMAME.
 </div>
 
 ---
+
+BibTex information
+```
+@article{liang2024mortar,
+  title={A mortar segment-to-segment frictional contact approach in material point method},
+  author={Liang, Weijian and Fang, Huangcheng and Yin, Zhen-Yu and Zhao, Jidong},
+  journal={Computer Methods in Applied Mechanics and Engineering},
+  volume={431},
+  pages={117294},
+  year={2024},
+  publisher={Elsevier}
+}
+```
